@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42624280093",
+    "project_id": "flutterapplication-46e23",
+    "storage_bucket": "flutterapplication-46e23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42624280093:android:e5bfeaa2e71f2e100288f4",
+        "android_client_info": {
+          "package_name": "com.example.smartmark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFCJsRXdPpVoq6e1jve1CkQ7TF9HC8lWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
